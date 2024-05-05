@@ -26,9 +26,9 @@ Cancellare la cartella .git
 
 ## Tasti rapidi generici:
 
-SPACE+T+H = Cambiare tema
-SPACE+F+F = Ricerca file
-SPACE+B = Nuova tab
-SPACE+X = Chiudi tab
-SPACE+C+H = Elenco tasti rapidi - Nella guida il <-leader-> sta per il tasto SPAZIATRICE
-CTRL+N = File Explores
+- SPACE+T+H = Cambiare tema
+- SPACE+F+F = Ricerca file
+- SPACE+B = Nuova tab
+- SPACE+X = Chiudi tab
+- SPACE+C+H = Elenco tasti rapidi - Nella guida il <-leader-> sta per il tasto SPAZIATRICE
+- CTRL+N = File Explores
