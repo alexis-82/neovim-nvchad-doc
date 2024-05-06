@@ -32,3 +32,5 @@ Cancellare la cartella .git
 - SPACE+X = Chiudi tab
 - SPACE+C+H = Elenco tasti rapidi - Nella guida il <-leader-> sta per il tasto SPAZIATRICE
 - CTRL+N = File Explores
+
+[![banner.webp](https://i.postimg.cc/tJR88Byp/banner.webp)](https://postimg.cc/7GcB2MfW)
