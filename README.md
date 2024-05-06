@@ -1,5 +1,5 @@
 # Documentazione Neovim con NvChad
-Sito ufficiale di NvChad:
+Sito ufficiale di NvChad:  
 https://nvchad.com
 
 ## Procedura installazione
