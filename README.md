@@ -7,20 +7,32 @@ https://nvchad.com
 apt update
 apt install neovim
 ```
+:warning: Versione >=0.9.5
+## L'ultima versione tramite PPA:
+```
+sudo add-apt-repository ppa:neovim-ppa/unstable -y
+```
+## Oppure download da GitHub
+```
+https://github.com/neovim/neovim
+```
+## Installazione font
+Scaricare il font JetBrainsMono Nerd e scompattare in:
+```
+~/.local/share/fonts/
+```
+Poi eseguire il comando:
+```
+fc-cache -fv
+```
+Sito font:
+```
+https://www.nerdfonts.com/font-downloads
+```
+## Installazione di NvChad:
 ```
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 ```
-
-## For latest version
-```
-sudo add-apt-repository ppa:neovim-ppa/unstable -y
-
-```
-
-## Installazione font
-Cliccare sul file JetBrainsMonoNerdFontMono-Bold.ttf e fare Installa, poi cambiare la configurazione
-nel terminale di sistema
-
 ## Comandi da lanciare all'interno di nvim
 ```
 :MasonInstallAll
