@@ -5,8 +5,7 @@ https://nvchad.com
 ## Procedura installazione
 ```
 apt update
-apt upgrade
-apt install nvim
+apt install neovim
 ```
 ```
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
