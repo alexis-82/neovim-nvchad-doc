@@ -8,11 +8,11 @@ apt update
 apt install neovim
 ```
 :warning: Versione >=0.9.5
-## L'ultima versione tramite PPA:
+### L'ultima versione tramite PPA:
 ```
 sudo add-apt-repository ppa:neovim-ppa/unstable -y
 ```
-## Oppure download da GitHub
+### Oppure download da GitHub
 ```
 https://github.com/neovim/neovim
 ```
