@@ -11,6 +11,12 @@ apt install neovim
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 ```
 
+## For latest version
+```
+sudo add-apt-repository ppa:neovim-ppa/unstable -y
+
+```
+
 ## Installazione font
 Cliccare sul file JetBrainsMonoNerdFontMono-Bold.ttf e fare Installa, poi cambiare la configurazione
 nel terminale di sistema
