@@ -42,3 +42,5 @@ end)
 
 vim.schedule(function() require("nvim-tree.api").tree.open() end)
 
+
+

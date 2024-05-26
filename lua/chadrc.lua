@@ -5,11 +5,12 @@
 local M = {}
 
 M.ui = {
-	theme = "ayu_dark",
+    theme = "ayu_dark",
 
   hl_override = {
-	Comment = { fg = "dark_purple", italic = true },
-	["@comment"] = { fg = "dark_purple", italic = true },
-	},
+    Comment = { fg = "dark_purple", italic = true },
+    ["@comment"] = { fg = "dark_purple", italic = true },
+  Identifier = { fg = "red" },
+    },
 }
 return M
