@@ -1,4 +1,6 @@
 return {
+  { "tpope/vim-fugitive" , lazy = false }, -- load a plugin at startup
+
   {
     "stevearc/conform.nvim",
     -- event = 'BufWritePre', -- uncomment for format on save
