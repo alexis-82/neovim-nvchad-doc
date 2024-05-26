@@ -11,9 +11,14 @@ return {
 
   {
     'tpope/vim-fugitive',
-  config = function()
-    print("vim-fugitive loaded")
-  end,
+    config = function()
+      print("vim-fugitive loaded")
+    end,
+  },
+
+  {
+    "lewis6991/gitsigns.nvim",
+    config = true,
   },
 
 
