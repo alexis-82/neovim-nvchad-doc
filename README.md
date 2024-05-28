@@ -72,7 +72,7 @@ Cancellare la cartella .git
 - :TSInstall = Installa sintassi linguaggio
 
 ## Note
-# Installazione manuale del font per il terminale
+### Installazione manuale del font per il terminale
 Copiare il file.ttf nella stessa directory dove poi si lanceranno i seguenti comandi:
 ```
 apt install dconf-editor
@@ -80,11 +80,12 @@ apt install dconf-editor
 Per controllare l'id del profilo:
 ```
 dconf list /org/gnome/terminal/legacy/profiles:/
-
 ```
 ```
 dconf write /org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9/font "'JetBrainsMono NF Bold 10'"
 ```
+---
 
+## Screenshot
 
 [![banner.webp](https://i.postimg.cc/tJR88Byp/banner.webp)](https://postimg.cc/7GcB2MfW)
