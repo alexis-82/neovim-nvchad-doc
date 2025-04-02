@@ -88,4 +88,4 @@ dconf write /org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6
 
 ## Screenshot
 
-[![banner.webp](https://i.postimg.cc/tJR88Byp/banner.webp)](https://postimg.cc/7GcB2MfW)
+[![banner.webp](https://i.postimg.cc/tJR88Byp/banner.webp)](https://i.postimg.cc/tJR88Byp/banner.webp)
